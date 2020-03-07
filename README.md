@@ -17,6 +17,39 @@
 - Typescript -> Angular -> SPA -> NativeScript
 - Python -> Flask -> Django
 - Go -> WebService
+- Java -> Android
+
+#### CS1-FullstackJS-Project
+
+**Application: Ticket Support System**
+
+> **Backend:** 
+> - Auth Service
+> - User CRUD
+> - Ticket CRUD
+> - Comment CRUD
+> - Q&A CRUD
+> - Categories & Articles CRUD
+> - Email Service
+> - Chat Service
+> - Log Service
+> - Report Service
+> - Setting Service
+> - Analytic Service
+
+> **Frontend**
+> - Admin SPA: Angular
+> - User SPA: ReactJS
+> - Analytic Realtime Application: ReactJS
+> - Android App
+
+> **Infrastructure**
+> - Heroku
+> - Firebase
+> - MongoDB
+> - Github, Gitlab
+> - Gitlab CI for Admin, User SPA: https://gitlab.com/
+> - Circle CI: Analytic RealTime Application
 
 Notes: all app in this course needs to be deployed on Heroku
 
