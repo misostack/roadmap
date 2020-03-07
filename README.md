@@ -34,6 +34,7 @@ Notes: all app in this course needs to be deployed on Heroku
 > - API Service
 > - Web Application: Admin & Customers
 > - Mobile App : Customer
+> 
 > Stacks:
 > - Architecture: Monolith
 > - Design pattern : DDD && BDD && TDD && CRUD
@@ -55,6 +56,7 @@ Notes: all app in this course needs to be deployed on Heroku
 > - Manage Personal Contacts
 > - Manage Personal Events
 > - Statistics 
+> 
 > Stacks:
 > - Architecture: Microservice
 > - API Service: Go - Gin
