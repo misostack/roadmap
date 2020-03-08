@@ -1,5 +1,11 @@
 # CS1
 
+## Headfirst
+
+- NodeJS -> ExpressJS : Auth Module, Users CRUD, Project CRUD, Tasks CRUD, SpendTime CRUD, File CRUD, SocketIO, S3
+- Angular : Auth Module, Users CRUD, Project CRUD, TasksCRUD, SpendTime CRUD, File CRUD, MarkDown2HTML,
+- ReactJS : Auth Module, Users CRUD, Project CRUD, TasksCRUD, SpendTime CRUD, FIle CRUD, MarkDown2HTML, Redux & ReduxForm
+
 **Build an application with the following features:**
 
 - Auth Module : login, register, reset-password
